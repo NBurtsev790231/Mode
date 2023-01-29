@@ -1,0 +1,15 @@
+body {
+	color: #eeeeee;
+	background: #121212;
+	padding: 15px 5px 5px 5px;
+}
+
+.btn__toggle {
+	font-size: 17px;
+	padding: 5px;
+	color: #ffffff;
+	background-color: #8a2be2;
+	border: 3px solid #000000;
+	border-radius: 25px;
+	font-weight: 600;
+}
